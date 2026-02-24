@@ -3,6 +3,8 @@
 👋 Hi there, I'm Madan Kumar
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusiast, always eager to learn new things and contribute to exciting projects. Feel free to explore my repositories and reach out if you want to collaborate!
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🚀 About Me
 🔭 I’m currently working on web applications, open-source contributions, and machine learning projects.
 🌱 I’m learning more about Cloud Technologies, Devops, and Ai and ML.
@@ -12,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 ⚡ Fun fact: I love to travel and visit tech conferences around the world! 🌍
 💬 Let's Connect
 Feel free to reach out to me on:
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 LinkedIn
 Hashnode
 ⚡ Fun Stats
